@@ -3,7 +3,7 @@ Prüfungsaufgabe 2
 # Logistic-Regression
 Prüfungsaufgabe 2 - Zweiter Teil
 
-Um dieses Projekt zu starten, folgen Sie dem Binder Badge:      [![Binder](https://mybinder.org/badge_logo.svg)](https://mybinder.org/v2/gh/FelixWuensch/Logistic-Regression/main)
+Um dieses Projekt zu starten, folgen Sie dem Binder Badge:      [![Binder](https://mybinder.org/badge_logo.svg)](https://mybinder.org/v2/gh/FelixWuensch/Pruefungsaufgabe-2/HEAD)
 
 # Ausführung der Übungsaufgabe
 
