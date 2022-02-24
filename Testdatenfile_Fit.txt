@@ -1,0 +1,4 @@
+Train Time:  0.026003599166870117 
+Modified Train Time:  0.03120431900024414 
+Unittest Train Time:  0.026015758514404297 
+
